@@ -1,17 +1,19 @@
-### Welcome to my GIT! Feel free to browse, although there's not much to look at for now 
+### Welcome to my GIT! Feel free to browse all of my past labs and projects. Have fun!!!
 
-<!--
-**fmintar1/fmintar1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- :star2: My name is Freddy Mintarja. Currently I am a student at [zcw](https://www.zipcodewilmington.com) with the cohort class of Java 8.2. With approximately 1200 hours of lecture and practice in 13 weeks, I am going to graduate by January 20, 2022 with the required skills and tools necessary to achieve my goal to become a Software Developer.
 
-Here are some ideas to get you started:
+- 🧠 I’m currently learning about Java with minors in JavaScript, TypeScript, HTML, SQL, Spring, SpringBoot, Maven, and Python.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-![profpic](https://user-images.githubusercontent.com/115741236/210087850-bfc5fc33-79b1-4186-861f-f13daeb3e9e7.jpeg)
+- ❓ Ask me about the USA map
+
+- 📫 How to reach me:
+  - LinkedIn: [linkedIn](https://www.linkedin.com/in/freddymintarja/)
+  - Email: [email](fmintar1@gmail.com)
+
+- ⚡ Fun fact:
+  - I love snowboarding, going to gym, hiking, traveling
+  - I know how to dance Salsa/Bachata/Merengue with minors in Tango/ChaCha/Hustle
+  - I enjoy putting puzzles together, especially metal puzzles, ([puzzles](https://specialtyproducts.store) for reference)
+  - I was born in a country with many islands (feel free to take a guess :))
+
+![profpic](https://media.giphy.com/media/xUPOqo6E1XvWXwlCyQ/giphy.gif)
