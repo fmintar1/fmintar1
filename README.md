@@ -7,8 +7,8 @@
 - ❓ Ask me about the USA map
 
 - 📫 How to reach me:
-  - LinkedIn: [linkedIn](https://www.linkedin.com/in/freddymintarja/)
-  - Email: [email](fmintar1@gmail.com)
+  - [Here is my LinkedIn profile](https://www.linkedin.com/in/freddymintarja/)
+  - [Here is my email](fmintar1@gmail.com)
 
 - ⚡ Fun fact:
   - I love snowboarding, going to gym, hiking, traveling
