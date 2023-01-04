@@ -13,7 +13,7 @@
 - ⚡ Fun fact:
   - I love snowboarding, going to gym, hiking, traveling
   - I know how to dance Salsa/Bachata/Merengue with minors in Tango/ChaCha/Hustle
-  - I enjoy putting puzzles together, especially metal puzzles, ([link](https://specialtyproducts.store) for reference)
+  - I enjoy putting puzzles together, especially metal puzzles, ([link]([https://specialtyproducts.store](https://specialtyproducts.store/metal-earth-iconx/?sort=bestselling)) for reference)
   - I was born in a country with many islands (feel free to take a guess :))
 
 ![profpic](https://media.giphy.com/media/xUPOqo6E1XvWXwlCyQ/giphy.gif)
